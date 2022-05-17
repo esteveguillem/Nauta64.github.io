@@ -40439,7 +40439,7 @@ case 3:l=k.bB(j.ae(b.a,"userName"))
 if(l==null)l="null"
 p=t.N
 o=B.O.dX(A.ao(["userName",l],p,p))
-n=A.ao(["content-type","application/json","Access-Control-Allow-Origin","*"],p,p)
+n=A.ao(["content-type","application/json"],p,p)
 s=4
 return A.A(A.na(A.dG("https://mowapi.herokuapp.com/getStatsWordle",0,null),o,n).i2(0,B.bv).ep(new A.a95()),$async$dJ)
 case 4:m=b
@@ -40481,7 +40481,7 @@ return A.A(A.eP(),$async$dL)
 case 3:s=2
 return A.A(l.bB(k.ae(c.a,"userName")),$async$dL)
 case 2:p=n.dX(m.ao(["userName",c,"stat",a],q,t.X))
-o=A.ao(["content-type","application/json","Access-Control-Allow-Origin","*"],q,q)
+o=A.ao(["content-type","application/json"],q,q)
 s=4
 return A.A(A.na(A.dG("https://mowapi.herokuapp.com/setStatsWordle",0,null),p,o).i2(0,B.bv).ep(new A.a96()),$async$dL)
 case 4:return A.K(null,r)}})
