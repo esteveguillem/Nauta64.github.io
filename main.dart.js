@@ -42111,17 +42111,17 @@ break
 case 1:return A.L(q,r)}})
 return A.M($async$pJ,r)},
 F(a,b){return A.kJ(new A.ahF(this),this.y,t.y)},
-H6(a0){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Play",e="Synonyms",d=A.by(10),c=A.hp(B.p,3),b=t.p,a=t.GJ
-d=A.ak(g,A.ar(A.b([A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R("Wordle",g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],b),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g),A.ak(g,A.ft("assets/wordle_background.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0),A.b6(g,8,g),A.ak(g,A.aY(A.b([A.h8(A.R(f,g,g,g,g,g,g),new A.ah8(h),A.kn(g,g,new A.bH(B.cn,a),g,g,g,new A.bH(B.p,a),g,g,g,g,g,g,g,g,g,g,g,g))],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],b),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,c,d,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)
-c=A.by(10)
+H6(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Play",e=A.by(10),d=A.hp(B.p,3),c=t.p,b=t.GJ
+e=A.ak(g,A.ar(A.b([A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R("Wordle",g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],c),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g),A.ak(g,A.ft("assets/wordle_background.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0),A.b6(g,8,g),A.ak(g,A.aY(A.b([A.h8(A.R(f,g,g,g,g,g,g),new A.ah8(h),A.kn(g,g,new A.bH(B.cn,b),g,g,g,new A.bH(B.p,b),g,g,g,g,g,g,g,g,g,g,g,g))],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],c),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,d,e,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)
+d=A.by(10)
 s=A.hp(B.p,3)
-c=A.ak(g,A.ar(A.b([A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R("Spell Word",g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],b),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g),A.ak(g,A.ft("assets/spell_background.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0),A.b6(g,8,g),A.ak(g,A.aY(A.b([A.h8(A.R(f,g,g,g,g,g,g),new A.ah9(h),A.kn(g,g,new A.bH(B.cn,a),g,g,g,new A.bH(B.p,a),g,g,g,g,g,g,g,g,g,g,g,g))],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],b),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,s,c,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)
+d=A.ak(g,A.ar(A.b([A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R("Spell Word",g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],c),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g),A.ak(g,A.ft("assets/spell_background.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0),A.b6(g,8,g),A.ak(g,A.aY(A.b([A.h8(A.R(f,g,g,g,g,g,g),new A.ah9(h),A.kn(g,g,new A.bH(B.cn,b),g,g,g,new A.bH(B.p,b),g,g,g,g,g,g,g,g,g,g,g,g))],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],c),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,s,d,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)
 s=A.by(10)
 r=A.hp(B.p,3)
-s=A.ak(g,A.ar(A.b([A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R(e,g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],b),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g),A.ak(g,A.ft("assets/synonyms.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0),A.b6(g,8,g),A.ak(g,A.aY(A.b([A.h8(A.R(f,g,g,g,g,g,g),new A.aha(h),A.kn(g,g,new A.bH(B.cn,a),g,g,g,new A.bH(B.p,a),g,g,g,g,g,g,g,g,g,g,g,g))],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],b),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,r,s,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)
+s=A.ak(g,A.ar(A.b([A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R("Synonyms",g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],c),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g),A.ak(g,A.ft("assets/synonyms.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0),A.b6(g,8,g),A.ak(g,A.aY(A.b([A.h8(A.R(f,g,g,g,g,g,g),new A.aha(h),A.kn(g,g,new A.bH(B.cn,b),g,g,g,new A.bH(B.p,b),g,g,g,g,g,g,g,g,g,g,g,g))],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],c),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,r,s,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)
 r=A.by(10)
-a=A.hp(B.p,3)
-q=A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R(e,g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],b),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g)
+b=A.hp(B.p,3)
+q=A.ak(g,A.aY(A.b([A.ij(A.ak(g,A.ar(A.b([A.R("Nonograms",g,g,g,A.aE(g,g,g,g,g,g,g,g,g,g,g,25,g,B.aa,g,g,!0,g,g,g,g,g,g,g,g),g,g)],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,g),1)],c),B.i,B.m,B.l),B.j,g,g,g,g,g,g,new A.W(12,12,12,12),g,g,g)
 p=A.ak(g,A.ft("assets/nonogram.png",g,g,g),B.j,g,g,g,g,200,g,g,g,g,1/0)
 o=A.b6(g,8,g)
 n=t.t_
@@ -42137,7 +42137,7 @@ j=A.cP(g,A.ak(g,A.cR(A.R("10x10",g,g,g,A.aE(g,g,B.n,g,g,g,g,g,g,g,g,20,g,B.aS,g,
 n=A.b([B.bC,B.bQ],n)
 i=A.by(10)
 k=A.b([new A.aZ(0,B.w,B.aB,new A.k(5,5),10)],k)
-return A.cR(A.pz(A.ar(A.b([d,c,s,A.ak(g,A.ar(A.b([q,p,o,A.ak(g,A.aY(A.b([m,j,A.cP(g,A.ak(g,A.cR(A.R("15x15",g,g,g,A.aE(g,g,B.n,g,g,g,g,g,g,g,g,20,g,B.aS,g,g,!0,g,g,g,g,g,g,g,g),g,g),g,g),B.j,g,g,new A.ba(g,g,g,i,k,new A.ju(B.bI,B.aG,B.bX,n,g,g),B.y),g,40,g,g,g,g,60),B.G,!1,g,g,g,g,g,g,g,g,g,g,g,g,new A.ahd(h),g,g,g,g,g,g)],b),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],b),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,a,r,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)],b),B.i,B.m,B.l),g),g,g)},
+return A.cR(A.pz(A.ar(A.b([e,d,s,A.ak(g,A.ar(A.b([q,p,o,A.ak(g,A.aY(A.b([m,j,A.cP(g,A.ak(g,A.cR(A.R("15x15",g,g,g,A.aE(g,g,B.n,g,g,g,g,g,g,g,g,20,g,B.aS,g,g,!0,g,g,g,g,g,g,g,g),g,g),g,g),B.j,g,g,new A.ba(g,g,g,i,k,new A.ju(B.bI,B.aG,B.bX,n,g,g),B.y),g,40,g,g,g,g,60),B.G,!1,g,g,g,g,g,g,g,g,g,g,g,g,new A.ahd(h),g,g,g,g,g,g)],c),B.i,B.bz,B.l),B.j,g,g,g,g,g,g,g,g,g,200)],c),B.i,B.m,B.l),B.j,g,g,new A.ba(B.n,g,b,r,g,g,B.y),g,315,new A.W(20,20,20,20),g,g,g,315)],c),B.i,B.m,B.l),g),g,g)},
 Zd(){return A.avm(null,new A.agV(),new A.agW(this),t.S)},
 Zc(){return A.avm(A.ft(this.r,null,null,null),new A.agR(),new A.agS(this),t.S)}}
 A.ahO.prototype={
